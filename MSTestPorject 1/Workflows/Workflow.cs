@@ -51,7 +51,6 @@ namespace MSTestPorject_1.Workflows
             ///Add Test Steps
             Thread.Sleep(1000);
             gamePageObject.FirstAccross();
-            Thread.Sleep(10000);
 
         }
 

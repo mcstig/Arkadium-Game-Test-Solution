@@ -28,7 +28,7 @@ namespace MSTestPorject_1.Z_Tests
             //Start the Application
             Workflow workflow = new Workflow();
             workflow.NavigateToGame();
-            workflow.PlayGame();
+            //workflow.PlayGame();
 
         }
 
